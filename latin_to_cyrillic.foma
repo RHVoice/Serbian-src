@@ -51,7 +51,7 @@ define DigraphLatinSrp
 define OtherEnglishLatinSrp 
 q : к | 
 x : {кс} |
-y : ј |
+y : и |
 w : в -> || _; 
 
 define MontenegrinLatin 
