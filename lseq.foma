@@ -92,7 +92,7 @@ z : [z ax0] |
 
 
 
-defin LetterSequence Letter+ ; 
+define LetterSequence Letter+ ; 
 
 # not all vowels used, but map them all anyway
 define stress 
